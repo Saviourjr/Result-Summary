@@ -26,8 +26,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 ![](./Result.jpg)
 
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/saviourjr/Results-summary-component-Frontend-Mentor)
+- Live Site URL: [Add live site URL here](https://saviourjr.github.io/Result-Summary/)
 
 ## My process
 
